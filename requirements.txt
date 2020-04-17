@@ -1,0 +1,15 @@
+certifi==2020.4.5.1
+chardet==3.0.4
+dnspython==1.16.0
+eventlet==0.25.2
+greenlet==0.4.15
+idna==2.9
+monotonic==1.5
+netifaces==0.10.6
+python-engineio==3.12.1
+python-socketio==4.5.1
+redis==3.4.1
+requests==2.23.0
+six==1.14.0
+socketio==0.2.1
+urllib3==1.25.8
